@@ -1,6 +1,6 @@
 #EXTM3U 
 #EXTINF:-1 tvg-id="1" tvg-name="TIN 1" tvg-logo="https://cdn.m3u.cl/logo/156___Listas_en_M3U_CL.png", TIN 1
-https://firebasestorage.googleapis.com/v0/b/minplus-db1.appspot.com/o/output.m3u8?alt=media&token=dbfa66f6-c55e-401c-b48b-1c2476db60c6
+https://firebasestorage.googleapis.com/v0/b/minplus-db1.appspot.com/o/output.m3u8?alt=media&token=d14a3120-7194-4456-9f7a-dfb5e0128718
 #EXTINF:-1 tvg-id="2" tvg-name="+ Listas en M3U.CL" tvg-logo="https://cdn.m3u.cl/logo/156___Listas_en_M3U_CL.png", TIN 2
 https://scl.edge.grupoz.cl/transmision/live/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="3" tvg-name="+ Listas en M3U.CL" tvg-logo="https://cdn.m3u.cl/logo/156___Listas_en_M3U_CL.png", TIN 3
